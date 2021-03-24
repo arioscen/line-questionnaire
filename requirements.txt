@@ -23,7 +23,7 @@ pycparser==2.18
 pymongo==3.5.1
 pyOpenSSL==17.4.0
 requests==2.18.4
-rsa==3.4.2
+rsa==4.2
 six==1.11.0
 urllib3==1.22
 Werkzeug==0.12.2
